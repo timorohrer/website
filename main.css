@@ -1,0 +1,39 @@
+body {
+    background-image: url(background.jpeg);
+    background-position: center center;
+}
+
+.intro,
+.social {
+    text-align: center;
+    color: slategrey;
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.social {
+    top: 52%;
+    padding: 20px;
+    border-collapse: separate;
+    border-spacing: 20px;
+}
+
+p {
+    color: slategrey;
+}
+
+#github,
+#linkedin,
+#resume {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+}
+
+tr:hover {
+    text-decoration: none;
+}
