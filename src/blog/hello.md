@@ -1,10 +1,8 @@
 ---
 title: Hello world!
-date: 2020-30-30
-blurb: Welcome
-keywords: hello
+date: 2017-09-10
+blurb: Welcome to the first pos
+keywords: hello world
 ---
 
 First post test
-
-

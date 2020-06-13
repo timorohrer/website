@@ -5,6 +5,7 @@ const metalsmith        = require('metalsmith'),
       collections       = require('metalsmith-collections'),
       handlebars        = require('handlebars');
 
+
 handlebars.registerHelper('moment', require('helper-moment'));
 
 metalsmith(__dirname)
@@ -23,14 +24,7 @@ metalsmith(__dirname)
     relative: false
   }))
   .use(layouts({
-    engine: 'handlebars',
-    directory: './layout',
-    pattern: ["*/*/*html","*/*html","*html"],
-    default: 'article.html',
-    partials: {
-            header: 'partials/header',
-            footer: 'partials/footer'
-        }
+    default: 'article.hbs'
   }))
   .build(function(err) {
     if (err) throw err;
