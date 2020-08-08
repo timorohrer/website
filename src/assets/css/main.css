@@ -5,10 +5,8 @@ html {
 body {
   font-family: 'Karla', sans-serif;
   font-weight: 400;
-  background-color: #fcfcfc;
+  background-color: #fbfbfb;
   color: #222;
-  /* border-right: 2px solid #398ad5; */
-  /* border-left: 2px solid #398ad5; */
   margin: 0;
   min-height: 100%; min-height: 100vh;
 }
@@ -23,18 +21,17 @@ header {
   display: block;
   font-family: 'Karla'; font-size: 1.4rem; font-weight: 400; letter-spacing: -0.035rem;
   padding: 10px 0;
-  color: black;
+  color: slategray;
 }
 
 header a:link, header a:visited {
   text-decoration: none;
-  /* color: #8071b8; */
-  color: #b41017;
+  color: #527d9a;
 }
 
 header a:hover {
-  text-decoration: underline #060609;
-  color: #060609;
+  text-decoration: underline slategray;
+  color: slategray;
 }
 
 header span.back-arrow {
@@ -46,7 +43,15 @@ header span.navbar {
   display: block;
   float: right;
   /* width: 100%; */
-  font-family: 'Karla'; font-size: 1.4rem; 
+  font-family: 'Karla'; font-size: 1.5rem; 
+  font-weight: 700; letter-spacing: -0.035rem;
+}
+
+header span.name {
+  display: block;
+  float: left;
+  /* width: 100%; */
+  font-family: 'Karla'; font-size: 2rem; 
   font-weight: 700; letter-spacing: -0.035rem;
 }
 
