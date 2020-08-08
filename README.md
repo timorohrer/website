@@ -5,4 +5,5 @@ This repository contains the source code to build my personal [website](https://
 The site is build and served by [netlify](https://www.netlify.com/), but to build it locally:
 
     $ npm install
-    $ node build
+    $ npm build
+    $ npm run serve
