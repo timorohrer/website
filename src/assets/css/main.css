@@ -14,7 +14,7 @@ body {
 #wrapper {
   max-width: 740px;
   margin: 0 auto;
-  padding: 120px 7% 80px 7%;
+  padding: 50px 7% 80px 7%;
 }
 
 header {
@@ -51,7 +51,7 @@ header span.name {
   display: block;
   float: left;
   /* width: 100%; */
-  font-family: 'Karla'; font-size: 2rem; 
+  font-family: 'Karla'; font-size: 3rem; 
   font-weight: 700; letter-spacing: -0.035rem;
 }
 
@@ -129,7 +129,7 @@ article a:visited {
 }
 
 article a:hover {
-  color: red;
+  color: slategray;
   border-bottom-color: gray;
 }
 
@@ -226,8 +226,8 @@ ul.recent li span.title a:link, ul.recent li span.title a:visited {
 }
 
 ul.recent li span.title a:hover {
-	color: red;
-	border-bottom-color: red;
+	color: slategray;
+	border-bottom-color: slategray;
 }
 
 .clearfix {
