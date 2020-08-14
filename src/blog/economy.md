@@ -38,5 +38,17 @@ visitors every year.
   <figcaption> Modern-day Bodie State Historic Park</figcaption>
 </figure>
 
-All the business created by the mines vanished with the mines. The question
-of if that economy was robust answers itself. 
+All the business created by the mines vanished with the mines. When using the
+three sector model of economics by Fisher, Clark, and Fourastie to analyze the
+fate of Bodie, the mines were the primary sector, tasked with the extraction of
+raw materials. The secondary sector, manufacturing, was the stamp mill which
+further processed rock. All the other businesses in town were of the tertiary
+sector, service. A Saloon could not survive if the population working in the
+other sectors got up and left. In the case of a gold rush town we expect this
+fragility, but do we see this phenomenon nowadays?
+
+As a society transitions for an industrial to a post-industrial society, both
+the primary and secondary sector shrink considerably. A quaternary sector,
+dealing with intellectual activities such as scientific research and education
+grows steadily. 
+
