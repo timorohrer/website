@@ -21,7 +21,7 @@
     "serve": "^11.3.2"
   },
   "dependencies": {
-    "handlebars": "^4.7.6",
+    "handlebars": "^4.7.7",
     "helper-moment": "^0.2.0",
     "jstransformer-handlebars": "^1.1.0",
     "metalsmith": "^2.3.0",
